@@ -1,0 +1,19 @@
+{
+  "name": "promise-stateful",
+  "version": "0.1.0",
+  "author": "Gavin Lloyd <gavinhungry@gmail.com>",
+  "description": "Native Promise wrapper with state getters (isPending, isFulfilled, isRejected)",
+  "license": "MIT",
+
+  "keywords": [
+    "promise"
+  ],
+
+  "homepage": "https://github.com/gavinhungry/promise-stateful",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gavinhungry/promise-stateful.git"
+  },
+
+  "main": "promise-stateful.js"
+}
